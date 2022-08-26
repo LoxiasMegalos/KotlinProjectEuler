@@ -4,3 +4,5 @@ FreeCodeCamp - 480 exercícios de lógica para solidificar a capacidade de const
 <div>
 <img src="Repositorio.JPG">
 </div>
+
+25/08/2022 - 3/480
