@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="P3MaiorFatorPrimoTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-08-26T00:28:05" hostname="DESKTOP-VA1CB2I" time="0.017">
+  <properties/>
+  <testcase name="calculaMaiorPrimoDivisorDe2()" classname="P3MaiorFatorPrimoTest" time="0.013"/>
+  <testcase name="calculaMaiorPrimoDivisorDe3()" classname="P3MaiorFatorPrimoTest" time="0.001"/>
+  <testcase name="calculaMaiorPrimoDivisorDe5()" classname="P3MaiorFatorPrimoTest" time="0.0"/>
+  <testcase name="calculaMaiorPrimoDivisorDe7()" classname="P3MaiorFatorPrimoTest" time="0.0"/>
+  <testcase name="calculaMaiorPrimoDivisorDe8()" classname="P3MaiorFatorPrimoTest" time="0.001"/>
+  <testcase name="calculaMaiorPrimoDivisorDe13195()" classname="P3MaiorFatorPrimoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
