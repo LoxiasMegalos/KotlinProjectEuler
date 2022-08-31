@@ -58,7 +58,9 @@ fun main(){
                     maiorPalindromo = resultado
                 }
             }
+
         }
+
     }
 
     println(maiorPalindromo)
